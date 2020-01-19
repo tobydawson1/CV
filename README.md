@@ -77,5 +77,5 @@ Logistics
 ## Hobbies
 
 Cooking - Give me a few ingredients and I will take them far. 
-Sports - Skiing, Football, Hockey Sailing and the gym. Captained teams for my School through out the years 
-Board Games - Every week we play a game, usually risk. I am the undisputed champ (of risk at least)
+Sports - Skiing, Football, Hockey Sailing and the gym. 
+Board Games - Every sunday some friends and I play a game or two.
