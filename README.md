@@ -6,7 +6,15 @@ I am a full stack developer looking to progress my learning and knowledge in a j
 
 Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I am extremely active and always looking for ways to improve my quality of life and the Tech industry has really excited me as I can see a thriving industry with opertunity's around every corner. 
 
-tech
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [mnemonic](https://github.com/tobydawson1/mnemonic) | A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them. | React, JavaScript, Jest, Enzyme, CSS |
+|[Bank Tech Test](https://github.com/tobydawson1/Bank-Tech-Test)| A tech test we were tasked with to prepare us for future tests | Ruby, RSPEC|
+| [MakersBnB](https://github.com/tobydawson1/MakersBNB) | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -16,13 +24,13 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence
 
-# Knowing when to Lead
+# Confidence and Composure
 
-In the industries I have worked in you often have individuals who do not help situations when they take control as they are not the best person for the job. I don't like to dominate rooms I think its far more effective analysing situation, seeing the problem and picking the right person for each job. I was entrusted with responsibility in Switzerland to be the point of contact for the guests when our managers were not working whichlead my to my management role where I had to deal every day with complaints, cashing up, organising staff and much more which has made me acccustomed to the pressure of having to make decisions.
+Working in a highly stressfull and fast paced industry like hospitality really showed me how key staying calm and presenting yourself with confidence is when you are working in a team or when dealing with clients. Sometimes you really don't want to be engaged with a client and just want to do your job but if you were to let your composure slip it becomes apparent so quickly that you don't want to be and you have to show confidence in your ability to do your job in order to portay an ideal image of a host and keep your client happy, content and cared for so they will come back.
 
-# Composure
+# Fast Learner and flexible
 
-Often situations can get out of hand and behond the realms of control, I pride myself on being able to weather the storm and stay calm during these situations. When everyone else starts to raise their voice or become sharp with one another this is when I like to show my ability's to act possitively and effectively. 
+I have always been able to adapt to new situtations and scenario's quickly, when you are working in Hospitality a lot can change very quickly. High turnover of your team, constant changing menu's, drinks, ingredients, methods. At No14 we had a week to learn everything about the hotel before our first guests arrived, being able to take in, process and apply knowledge gained in a short amount of time was something I prided myself on and Makers has only reinforced that pride. 
 
 # Team Player 
 
@@ -61,7 +69,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**gets.chomp** (Jan '20 - Present)
+**gets.chomp** (Jan '20 - Present) 
 *Blog editor and founder*
 
 **Brunswick House(London)** ( May '19 to Dec '19)    
