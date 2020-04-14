@@ -1,7 +1,5 @@
 ## Toby Dawson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
-
 I am a full stack developer looking to progress my learning and knowledge in a junior development role within the London tech industry. I have not always had a burning thirst for knowelege or for learning and I often believed my ability's were based around interactions with others, thinking outside the box and pure hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
 
 Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I am extremely active and always looking for ways to improve my quality of life and the Tech industry has really excited me as I can see a thriving industry with opertunity's around every corner. 
@@ -15,14 +13,8 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 | [mnemonic](https://github.com/tobydawson1/mnemonic) | A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them back over. | React, JavaScript, Jest, Enzyme, CSS |
 |[Bank Tech Test](https://github.com/tobydawson1/Bank-Tech-Test)| A tech test we were tasked with to prepare us for future tests | Ruby, RSPEC|
 | [MakersBnB](https://github.com/tobydawson1/MakersBNB) | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
+
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-
-- Experience
-- Achievements
-- Evidence
 
 #### Confidence and Composure
 
@@ -50,13 +42,6 @@ For the duration of my time at Makers I have been running a blog on Instagram. I
 
 When I was 15 I memorised the 8 algorithms needed in order to solve the cube in under a minute and a half. At 26 this skill has changed from a memory game to a muscle memory skill, its facinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes 3 years of not touching one.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (Dec 19 to april 20)
@@ -66,14 +51,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Oxford Brookes University (Sept 13 to May 17)
+#### Oxford Brookes University (Sept '13 to May '17)
 
 - BA City and Regional Planning
 - Played for University Hockey Team
 
-#### Any other qualifications
+#### Bryanston School (Sept '07 to June '12)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A levels in Biology, Sports Science, Business and Economics
+- 9 GCSE's
+- Captained 2nd team in Tennis
 
 ## Experience
 
