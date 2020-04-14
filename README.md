@@ -4,7 +4,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 I am a full stack developer looking to progress my learning and knowledge in a junior development role within the London tech industry. I have not always had a burning thirst for knowelege or for learning and I often believed my ability's were based around interactions with others, thinking outside the box and pure hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
 
-Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a management role for a 100 cover restaurant in Vauxhall. I am extremely active and always looking for ways to improve my quality of life and the Tech industry has really excited me as I can see a thriving industry with opertunity's around every corner. 
+Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I am extremely active and always looking for ways to improve my quality of life and the Tech industry has really excited me as I can see a thriving industry with opertunity's around every corner. 
 
 tech
 ## Skills
@@ -18,11 +18,11 @@ Consider skills relevent to software development. Then consider your best skills
 
 # Knowing when to Lead
 
-In the industries I have worked in you often have bossy individuals who do not help situations when they take control when they are not the best person for the job. I don't like to dominate rooms I think its far more effective analysing situation, seeing the problem and picking the right person for each job. I was entrusted with responsibility in Switzerland to be the point of contact for the guests when our managers were not working whichlead my to my management role where I had to deal every day with complaints, cashing up, organising staff and much more which has made me acccustomed to the pressure of having to make decisions.
+In the industries I have worked in you often have individuals who do not help situations when they take control as they are not the best person for the job. I don't like to dominate rooms I think its far more effective analysing situation, seeing the problem and picking the right person for each job. I was entrusted with responsibility in Switzerland to be the point of contact for the guests when our managers were not working whichlead my to my management role where I had to deal every day with complaints, cashing up, organising staff and much more which has made me acccustomed to the pressure of having to make decisions.
 
 # Composure
 
-Often situations can get out of hand and behond the realms of control, I pride myself on being able to weather the storm and stay calm during these situations. When everyone else starts to raise their voice or become sharp with one another this is when I like to show my ability's to act possitively and effectively.
+Often situations can get out of hand and behond the realms of control, I pride myself on being able to weather the storm and stay calm during these situations. When everyone else starts to raise their voice or become sharp with one another this is when I like to show my ability's to act possitively and effectively. 
 
 # Team Player 
 
@@ -61,21 +61,22 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-Brunswick House(London) ( May 19 to Dec 19)    
-Managmnent  
-- Responsible for leading service and maintaining the level of quality required. 
+**gets.chomp** (Jan '20 - Present)
+*Blog editor and founder*
 
-N.14 (Switzerland) (dec 18 to May 19)   
-Host
-- Required undivided attention and commitment for 5 months as well as a large amount of training. 
+**Brunswick House(London)** ( May '19 to Dec '19)    
+*Supervisor - Responsible for leading service and maintaining the level of quality expected*
 
-Oxford Royale Academy (Oxford) (May 17 to Sep 17)
-Logistics
-- Needed self-motivation to get jobs done as we were not heavily managed, we were very much left to figure problems out ourselves. 
+**N.14(Switzerland)** (Dec '18 to May '19)   
+*Host - Required undivided attention, commitment and standards for 5 months*
+
+**Oxford Royale Academy(Oxford)** (May '17 to Sep '17)
+*Logistics - Needed self-motivation to get jobs done as we were not heavily managed, we were very much left to figure problems out ourselves*
 
 
-## Hobbies
+## Hobbies and Interests
 
-Cooking - Give me a few ingredients and I will take them far. 
-Sports - Skiing, Football, Hockey Sailing and the gym. 
-Board Games - Every sunday some friends and I play a game or two.
+- **Cooking** : Give me a few ingredients and I will take them far. 
+- **Sports** : Skiing, Football, Hockey, Sailing and the gym. 
+- **Board Games** : Every sunday some friends and I play a game or two.
+- **Yoga** : Something I picked up at Makers, love that its a more layed back style of excersising
