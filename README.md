@@ -24,23 +24,31 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence
 
-# Confidence and Composure
+#### Confidence and Composure
 
 Working in a highly stressfull and fast paced industry like hospitality really showed me how key staying calm and presenting yourself with confidence is when you are working in a team or when dealing with clients. Sometimes you really don't want to be engaged with a client and just want to do your job but if you were to let your composure slip it becomes apparent so quickly that you don't want to be and you have to show confidence in your ability to do your job in order to portay an ideal image of a host and keep your client happy, content and cared for so they will come back.
 
-# Fast Learner and flexible
+#### Fast Learner and flexible
 
 I have always been able to adapt to new situtations and scenario's quickly, when you are working in Hospitality a lot can change very quickly. High turnover of your team, constant changing menu's, drinks, ingredients, methods. At No14 we had a week to learn everything about the hotel before our first guests arrived, being able to take in, process and apply knowledge gained in a short amount of time was something I prided myself on and Makers has only reinforced that pride. 
 
-# Team Player 
+#### Team Player 
 
 Working within a team is part and parcel of most professional work places and this was certainly the case for my previous roles. In my logistics role I worked in a team of 7 and we often had to organise 3 different vehicles travelling to up to 9 campus's across 3 city's all rotating in and out of one storage facility. Organistation and communication had to happen every day otherwise we simply would not of met our deadlines. 
 
-# Enthusiastic 
+#### Enthusiastic 
 
-Possitivity and enthusiasm is something that lightens up the whole room, my work has lead me to working 12/15 hour shifts often late into the night with increasingly drunk individuals. If you let your head drop not only do your fellow staff memebers feel it but your work also suffers which in my case my work were my clients.
+Possitivity and enthusiasm is something that lightens up the whole room, my work has lead me to working 12/15 hour shifts often late into the night with increasingly drunk individuals. If you let your head drop not only do your fellow staff members feel it but your work also suffers which in my case my work were my clients.
 
-#### Another Skill
+## Additional Skills
+
+#### Creative 
+
+For the duration of my time at Makers I have been running a blog on Instagram. I chose Instagram as I believe it to be a great way to artistically express yourself, it offered a way to show off my code and journey through Makers as well as my growth as a coder for the rest of my life hopefully. I was able to combine my love of sharing photos with my ability to formulate my thoughts in a creative and fun way but most importantly to show my passion for coding. I tried to make 3/4 posts a week with them varying between talking about my code, what I had learnt that week, teamwork and how to stay in a good mindset through tough problems. 
+
+#### Rubix Cube
+
+When I was 15 I memorised the 8 algorithms needed in order to solve the cube in under a minute and a half. At 26 this skill has changed from a memory game to a muscle memory skill, its facinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes 3 years of not touching one.
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
