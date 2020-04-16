@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-dawson-942357158/) | [Blog](https://www.instagram.com/gets.chomp/)
 
-I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowelege and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
+I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowledge and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accessible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
 
-Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I decided Makers was the best place to start my journey after high recomendations from friends and the apparent commitment Makers make towards teaching good practices and ensuring you focus is not just on your code but also on yourself as well as on the people around you for greater success for everyone.
+Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I decided Makers was the best place to start my journey after high recommendations from friends and the apparent commitment Makers make towards teaching good practices and ensuring you focus is not just on your code but also on yourself as well as on the people around you for greater success for everyone.
 
 **Tech Skills** : Ruby, Rails, React, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
@@ -23,19 +23,19 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 
 #### Confidence and Composure
 
-Working in a highly stressfull and fast paced industry like hospitality really showed me how key staying calm and presenting yourself with confidence is when you are working in a team or when dealing with clients. Sometimes you really don't want to be engaged with a client and just want to do your job but if you were to let your composure slip it becomes apparent so quickly that you don't want to be and you have to show confidence in your ability to do your job in order to portay an ideal image of a host and keep your client happy, content and cared for so they will come back.
+Working in a highly stressful and fast paced industry like hospitality really showed me how key staying calm and presenting yourself with confidence is when you are working in a team or when dealing with clients. Sometimes you really don't want to be engaged with a client and just want to do your job but if you were to let your composure slip it becomes apparent so quickly that you don't want to be and you have to show confidence in your ability to do your job in order to portray an ideal image of a host and keep your client happy, content and cared for so they will come back.
 
 #### Fast Learner and flexible
 
-I have always been able to adapt to new situtations and scenario's quickly, when you are working in Hospitality a lot can change very quickly. High turnover of your team, constant changing menu's, drinks, ingredients, methods. At No14 we had a week to learn everything about the hotel before our first guests arrived, being able to take in, process and apply knowledge gained in a short amount of time was something I prided myself on and Makers has only reinforced that pride. 
+I have always been able to adapt to new situations and scenario's quickly, when you are working in Hospitality a lot can change very quickly. High turnover of your team, constant changing menu's, drinks, ingredients, methods. At No14 we had a week to learn everything about the hotel before our first guests arrived, being able to take in, process and apply knowledge gained in a short amount of time was something I prided myself on and Makers has only reinforced that pride. 
 
 #### Team Player 
 
-Working within a team is part and parcel of most professional work places and this was certainly the case for my previous roles. In my logistics role I worked in a team of 7 and we often had to organise 3 different vehicles travelling to up to 9 campus's across 3 city's all rotating in and out of one storage facility. Organistation and communication had to happen every day otherwise we simply would not of met our deadlines. 
+Working within a team is part and parcel of most professional work places and this was certainly the case for my previous roles. In my logistics role I worked in a team of 7 and we often had to organise 3 different vehicles travelling to up to 9 campus's across 3 city's all rotating in and out of one storage facility. Organisation and communication had to happen every day otherwise we simply would not of met our deadlines. 
 
 #### Enthusiastic 
 
-Possitivity and enthusiasm is something that lightens up the whole room, my work has lead me to working 12/15 hour shifts often late into the night with increasingly drunk individuals. If you let your head drop not only do your fellow staff members feel it but your work also suffers which in my case my work were my clients.
+Positivity and enthusiasm is something that lightens up the whole room, my work has lead me to working 12/15 hour shifts often late into the night with increasingly drunk individuals. If you let your head drop not only do your fellow staff members feel it but your work also suffers which in my case my work were my clients.
 
 ## Additional Skills
 
@@ -45,7 +45,7 @@ For the duration of my time at Makers I have been running a blog on Instagram. I
 
 #### Rubix Cube
 
-When I was 15 I memorised the eight algorithms needed in order to solve the cube. At 26 this skill has changed from a memory game to a muscle memory skill, its facinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes three years of not touching one.
+When I was 15 I memorised the eight algorithms needed in order to solve the cube. At 26 this skill has changed from a memory game to a muscle memory skill, its fascinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes three years of not touching one.
 
 ## Education
 
@@ -86,5 +86,5 @@ When I was 15 I memorised the eight algorithms needed in order to solve the cube
 
 - **Cooking** : Give me a few ingredients and I will take them far. 
 - **Sports** : Skiing, Football, Hockey, Sailing and going to the gym. 
-- **Board Games** : Every sunday some friends and I play a game or two.
-- **Yoga** : Something I picked up at Makers, love that its a more layed back style of excersising
+- **Board Games** : Every Sunday some friends and I play a game or two.
+- **Yoga** : Something I picked up at Makers, love that its a more laid back style of exercsising
