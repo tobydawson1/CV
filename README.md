@@ -80,6 +80,6 @@ When I was 15 I memorised the 8 algorithms needed in order to solve the cube in 
 ## Hobbies and Interests
 
 - **Cooking** : Give me a few ingredients and I will take them far. 
-- **Sports** : Skiing, Football, Hockey, Sailing and the gym. 
+- **Sports** : Skiing, Football, Hockey, Sailing and going to the gym. 
 - **Board Games** : Every sunday some friends and I play a game or two.
 - **Yoga** : Something I picked up at Makers, love that its a more layed back style of excersising
