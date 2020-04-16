@@ -1,8 +1,12 @@
 ## Toby Dawson
 
-I am a full stack developer looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowelege and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
+
+I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowelege and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
 
 Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I decided Makers was the best place to start my journey after high recomendations from friends and the apparent commitment Makers make towards teaching good practices and ensuring you focus is not just on your code but also on yourself as well as on the people around you for greater success for everyone.
+
+**Tech Skills** : Ruby, Rails, React, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
