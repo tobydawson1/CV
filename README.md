@@ -1,6 +1,6 @@
 ## Toby Dawson
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-dawson-942357158/) | [Blog](https://www.instagram.com/gets.chomp/)
 
 I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowelege and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accesible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
 
