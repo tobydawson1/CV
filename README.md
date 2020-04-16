@@ -45,7 +45,7 @@ For the duration of my time at Makers I have been running a blog on Instagram. I
 
 #### Rubix Cube
 
-When I was 15 I memorised the 8 algorithms needed in order to solve the cube in under a minute and a half. At 26 this skill has changed from a memory game to a muscle memory skill, its facinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes 3 years of not touching one.
+When I was 15 I memorised the eight algorithms needed in order to solve the cube. At 26 this skill has changed from a memory game to a muscle memory skill, its facinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes three years of not touching one.
 
 ## Education
 
