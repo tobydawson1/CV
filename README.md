@@ -10,7 +10,7 @@
   <a href="mailto:tobydawson1@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-dawson-942357158/) | [Blog](https://www.instagram.com/gets.chomp/)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
 
 I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. Makers Academy’s bootcamp experience has made me adopt a growth mindset and allowed me to better think outside of the box, adding this to key skills learnt in previous jobs such as my interactions with others and hard work has given me a broad range of ability’s to bring to any team.
 
