@@ -1,4 +1,14 @@
-## Toby Dawson
+<div align="center">
+  
+<h1> Toby Dawson </h1>
+  <a href=https://www.linkedin.com/in/toby-dawson-942357158/>
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
+    <a href=https://www.instagram.com/gets.chomp/>
+    <img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
+   <a href="https://github.com/tobydawson1">
+  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
+  <a href="mailto:tobydawson1@gmail.com">
+  <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-dawson-942357158/) | [Blog](https://www.instagram.com/gets.chomp/)
 
@@ -18,6 +28,7 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 |[Bank Tech Test](https://github.com/tobydawson1/Bank-Tech-Test)| A tech test we were tasked with to prepare us for future tests | Ruby, RSPEC|
 | [MakersBnB](https://github.com/tobydawson1/MakersBNB) | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
 | [Thermostat](https://github.com/tobydawson1/Thermostat-) | My first Javascript project, incorporating the jQuery library for a simple javascript web app. | Javascript, Jquery, Jasmine, HTML |
+| [Makers Portfolio](https://github.com/tobydawson1/Makers_Portfolio) | All my work across the 12 weeks Makers course | |
 
 ## Skills
 
