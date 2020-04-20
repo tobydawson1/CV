@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-dawson-942357158/) | [Blog](https://www.instagram.com/gets.chomp/)
 
-I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. I have not always had a burning thirst for knowledge and I often believed my ability's were based around interactions with others, thinking outside the box and hard work. However, since being shown how accessible and fun becoming a developer can be it's safe to say I have been quenching my now parched throat daily.
+I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. Makers Academy’s bootcamp experience has made me adopt a growth mindset and allowed me to better think outside of the box, adding this to key skills learnt in previous jobs such as my interactions with others and hard work has given me a broad range of ability’s to bring to any team.
 
 Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I decided Makers was the best place to start my journey after high recommendations from friends and the apparent commitment Makers make towards teaching good practices and ensuring you focus is not just on your code but also on yourself as well as on the people around you for greater success for everyone.
 
