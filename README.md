@@ -26,7 +26,7 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [mnemonic](https://github.com/tobydawson1/mnemonic) | A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them back over. | React, JavaScript, Jest, Enzyme, CSS |
+| [mnemonic](https://github.com/tobydawson1/mnemonic)<br /><br /><a href="https://github.com/tobydawson1/mnemonic"><div align="center" width="600">![mnemonic_Screenshot](screenshots/mnemonic.png)</div></a>| A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them back over. | React, JavaScript, Jest, Enzyme, CSS |
 |[Bank Tech Test](https://github.com/tobydawson1/Bank-Tech-Test)| A tech test we were tasked with to prepare us for future tests | Ruby, RSPEC|
 | [MakersBnB](https://github.com/tobydawson1/MakersBNB) | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
 | [Thermostat](https://github.com/tobydawson1/Thermostat-) | My first Javascript project, incorporating the jQuery library for a simple javascript web app. | Javascript, Jquery, Jasmine, HTML |
