@@ -9,6 +9,8 @@
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
   <a href="mailto:tobydawson1@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
+   <a href=https://www.linkedin.com/in/toby-dawson-942357158/>
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
 
