@@ -9,6 +9,8 @@
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
   <a href="mailto:tobydawson1@gmail.com">
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
+   <a href=https://tobydawson.netlify.app/>
+  <img src="https://cdn.onlinewebfonts.com/svg/img_314784.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
 
@@ -26,10 +28,10 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [mnemonic](https://github.com/tobydawson1/mnemonic) | A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them back over. | React, JavaScript, Jest, Enzyme, CSS |
+| [mnemonic](https://github.com/tobydawson1/mnemonic)<br /><br /><a href="https://github.com/tobydawson1/mnemonic"><div align="center" width="600">![mnemonic_Screenshot](screenshots/mnemonic.png)</div></a>| A memory game, players are presented with 14 cards face up, these are quickly flipped to be hidden and you must find the cards that match by flipping them back over. | React, JavaScript, Jest, Enzyme, CSS |
+| [MakersBnB](https://github.com/tobydawson1/MakersBNB) <br /><br /><a href="https://github.com/tobydawson1/MakersBNB"><div align="center" width="600">![mnemonic_Screenshot](screenshots/makersbnb.png)</div></a> | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
+| [Thermostat](https://github.com/tobydawson1/Thermostat-) <br /><br /><a href="https://github.com/tobydawson1/Thermostat-"><div align="center" width="600">![mnemonic_Screenshot](screenshots/thermostat.png)</div></a> | My first Javascript project, incorporating the jQuery library for a simple javascript web app. | Javascript, Jquery, Jasmine, HTML |
 |[Bank Tech Test](https://github.com/tobydawson1/Bank-Tech-Test)| A tech test we were tasked with to prepare us for future tests | Ruby, RSPEC|
-| [MakersBnB](https://github.com/tobydawson1/MakersBNB) | An AirBnB clone for our first group project. | Ruby,  Sinatra, SQL  |
-| [Thermostat](https://github.com/tobydawson1/Thermostat-) | My first Javascript project, incorporating the jQuery library for a simple javascript web app. | Javascript, Jquery, Jasmine, HTML |
 | [Makers Portfolio](https://github.com/tobydawson1/Makers_Portfolio) | All my work across the 12 weeks Makers course | |
 
 ## Skills
