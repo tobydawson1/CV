@@ -93,7 +93,7 @@ When I was 15 I memorised the eight algorithms needed in order to solve the cube
 #### Brunswick House(London) (May '19 to Dec '19)    
 
 - Supervisor Role
-- Responsible for leading service and maintaining the level of quality expected
+- Dealt with cashing up, leading the service, opening and locking the building, general day to day management 
 
 #### N.14(Switzerland) (Dec '18 to May '19)  
 
@@ -102,9 +102,13 @@ When I was 15 I memorised the eight algorithms needed in order to solve the cube
 
 #### Oxford Royale Academy(Oxford) (May '17 to Sep '17)
 
-- Logistics Role
+- Logistics Role 
 - Needed self-motivation to get jobs done as we were not heavily managed, we were very much left to figure problems out ourselves*
 
+#### DMC Solicitors (Summer 2010)
+
+- Internship
+- Answered the phone’s, faxing/photocopied documents and greeted clients. 
 
 ## Hobbies and Interests
 
