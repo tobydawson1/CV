@@ -85,19 +85,19 @@ When I was 15 I memorised the eight algorithms needed in order to solve the cube
 
 ## Experience
 
-**gets.chomp** (Jan '20 - Present) 
+#### gets.chomp (Jan '20 - Present) 
 
 - Blog editor and founder*
 
-**Brunswick House(London)** ( May '19 to Dec '19)    
+#### Brunswick House(London) ( May '19 to Dec '19)    
 
 - Supervisor - Responsible for leading service and maintaining the level of quality expected*
 
-**N.14(Switzerland)** (Dec '18 to May '19)  
+#### N.14(Switzerland) (Dec '18 to May '19)  
 
 - Host - Required undivided attention, commitment and standards for 5 months*
 
-**Oxford Royale Academy(Oxford)** (May '17 to Sep '17)
+#### Oxford Royale Academy(Oxford) (May '17 to Sep '17)
 
 - Logistics - Needed self-motivation to get jobs done as we were not heavily managed, we were very much left to figure problems out ourselves*
 
