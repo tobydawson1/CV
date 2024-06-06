@@ -37,6 +37,10 @@ For a complete list, see my [GitHub](https://github.com/tobydawson1?tab=reposito
 
 ## Skills
 
+#### Emotional Intelligence 
+
+I believe I have a strong ability to empathise with people and understand when they need space or when they need a helping hand. This is particularly key when working in software as sometimes people want the time to work through issues by themselves in order to grow and other times collaboration is what they really want. Occasionally that may just be sitting in and being present and othertimes it is taking the front foot and leading them to a solution. 
+
 #### Confidence and Composure
 
 Working in a highly stressful and fast paced industry like hospitality really showed me how key staying calm and presenting yourself with confidence is when you are working in a team or when dealing with clients. Sometimes you really don't want to be engaged with a client and just want to do your job but if you were to let your composure slip it becomes apparent so quickly that you don't want to be and you have to show confidence in your ability to do your job in order to portray an ideal image of a host and keep your client happy, content and cared for so they will come back.
@@ -57,35 +61,21 @@ Positivity and enthusiasm is something that lightens up the whole room, my work 
 
 #### Creative 
 
-For the duration of my time at Makers I have been running a blog on Instagram. I chose Instagram as I believe it to be a great way to artistically express yourself, it offered a way to show off my code and journey through Makers as well as my growth as a coder for the rest of my life hopefully. I was able to combine my love of sharing photos with my ability to formulate my thoughts in a creative and fun way but most importantly to show my passion for coding. I tried to make 3/4 posts a week with them varying between talking about my code, what I had learnt that week, teamwork and how to stay in a good mindset through tough problems. 
+For the duration of my time at Makers I ran a blog on Instagram. I chose Instagram as I believe it to be a great way to artistically express yourself, it offered a way to show off my code and journey through Makers as well as my growth as a coder for the rest of my life hopefully. I was able to combine my love of sharing photos with my ability to formulate my thoughts in a creative and fun way but most importantly to show my passion for coding. I tried to make 3/4 posts a week with them varying between talking about my code, what I had learnt that week, teamwork and how to stay in a good mindset through tough problems. 
 
 #### Rubix Cube
 
 When I was 15 I memorised the eight algorithms needed in order to solve the cube. At 26 this skill has changed from a memory game to a muscle memory skill, its fascinating picking it up now and just working my way through it with no actual thought on what I am doing especially after sometimes three years of not touching one.
 
-## Education
-
-#### Makers Academy (Dec 19 to april 20)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Oxford Brookes University (Sept '13 to May '17)
-
-- BA City and Regional Planning
-- Played for University Hockey Team
-
-#### Bryanston School (Sept '07 to June '12)
-
-- A levels in Biology, Sports Science, Business and Economics
-- 9 GCSE's
-- Captained 2nd team in Tennis
-
 ## Experience
 
-#### gets.chomp (Jan '20 - Present) 
+#### Nandos UK and IE (Sept '20 - Present)
+
+- Helped build their online ordering website from the ground up
+- Helped maintain and add features to this site to improve the UX for our customers across 3 and a half years
+- Upgraded their restaurant portal from a create-react-app to next 14 and react 18
+
+#### gets.chomp (Jan '20 - May '20) 
 
 - Blog editor and founder
 - Tracked my learning across the four month Makers course 
@@ -108,7 +98,27 @@ When I was 15 I memorised the eight algorithms needed in order to solve the cube
 #### DMC Solicitors (Summer 2010)
 
 - Internship
-- Answered the phone’s, faxing/photocopied documents and greeted clients. 
+- Answered the phone’s, faxing/photocopied documents and greeted clients.
+
+  ## Education
+
+#### Makers Academy (Dec 19 to april 20)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Oxford Brookes University (Sept '13 to May '17)
+
+- BA City and Regional Planning
+- Played for University Hockey Team
+
+#### Bryanston School (Sept '07 to June '12)
+
+- A levels in Biology, Sports Science, Business and Economics
+- 9 GCSE's
+- Captained 2nd team in Tennis
 
 ## Hobbies and Interests
 
