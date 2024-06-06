@@ -16,11 +16,11 @@
 
 </div>
 
-I am a **Full Stack Developer** looking to progress my learning and knowledge in a software development role within the London tech industry. Makers Academy’s bootcamp experience has made me adopt a growth mindset and allowed me to better think outside of the box, adding this to key skills learnt in previous jobs such as my interactions with others and hard work has given me a broad range of ability’s to bring to any team.
+I am a **Full Stack Developer** who has a passion for front-end engineering. I have helped build from the ground up a web application for Nandos UK and IE as well as maintaining it from September 2020 to January 2024. In the 3 months after that I was tasked with upgrading their restaurant portal from a create-next-app built in 2018 to Next 14 and React 18. This was a brilliant challenge that allowed me to consolidate and show off all of the skills I learnt over my first 3 and a half years in tech. Since then I have been helping the learning and careers team expand their website and intergrate a third party LMS for our staff in the restaurants to use.
 
 Since graduating from Oxford Brookes University with a degree in City and Regional Planning I have worked in Switzerland in a highly demanding Hotel as a host and followed that up into a supervisor role for a 100 cover restaurant in Vauxhall. I decided Makers was the best place to start my journey after high recommendations from friends and the commitment Makers make towards teaching good practices and ensuring you focus is not just on your code but also on yourself as well as on the people around you for greater success for everyone.
 
-**Tech Skills** : Ruby, Rails, React, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+**Tech Skills** : Typescript, Next.js, React, Sass, Playwight, HTML, GIT, Agile, Cypress, Jest, Node.js, HTML, CSS, Ruby, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
