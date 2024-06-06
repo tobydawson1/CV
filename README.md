@@ -2,7 +2,7 @@
   
 <h1> Toby Dawson </h1>
   <a href=https://www.linkedin.com/in/toby-dawson-942357158/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Icon" height="40" width="40" hspace="20">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Icon" height="40" width="80" hspace="20">
     <a href=https://www.instagram.com/gets.chomp/>
     <img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
    <a href="https://github.com/tobydawson1">
